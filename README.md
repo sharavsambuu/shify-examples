@@ -17,7 +17,7 @@
     Build 3 assets and 2 strategies(RSI|MACD) totally 6 combinations of portfolio
     Track portfolio performances and equity correlations, with some windowed approach
     Calculate Maximum Drawdowns through the MC simulations: portfolio level, equity level
-    Do portfolio optimization with based line MVO, weekly and monthly rebalance mode.
+    Do portfolio optimization with baseline MVO, weekly and monthly rebalance mode.
     
 
 
