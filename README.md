@@ -10,7 +10,15 @@
 
 # Tasks
 
-    Implement simple RSI based strategy
+    Implement simple RSI based strategy + Trading Cost(Taker fee based)
+    Parameter stability analysis for RSI
+    Implement Other MACD based strategy + Trading Cost(Taker fee based)
+    Parameter stability analysis for MACD
+    Build 3 assets and 2 strategies(RSI|MACD) totally 6 combinations of portfolio
+    Track portfolio performances and equity correlations, with some windowed approach
+    Calculate Maximum Drawdowns through the MC simulations: portfolio level, equity level
+    Do portfolio optimization with based line MVO, weekly and monthly rebalance mode.
+    
 
 
 # Steps to install dependencies
